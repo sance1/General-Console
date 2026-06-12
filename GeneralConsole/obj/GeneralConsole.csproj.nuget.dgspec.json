@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\General Console\\generalconsole\\GeneralConsole.csproj": {}
+    "D:\\C#\\General Console\\GeneralConsole\\GeneralConsole.csproj": {}
   },
   "projects": {
-    "D:\\C#\\General Console\\generalconsole\\GeneralConsole.csproj": {
+    "D:\\C#\\General Console\\GeneralConsole\\GeneralConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\General Console\\generalconsole\\GeneralConsole.csproj",
+        "projectUniqueName": "D:\\C#\\General Console\\GeneralConsole\\GeneralConsole.csproj",
         "projectName": "GeneralConsole",
-        "projectPath": "D:\\C#\\General Console\\generalconsole\\GeneralConsole.csproj",
+        "projectPath": "D:\\C#\\General Console\\GeneralConsole\\GeneralConsole.csproj",
         "packagesPath": "C:\\Users\\sance\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\General Console\\generalconsole\\obj\\",
+        "outputPath": "D:\\C#\\General Console\\GeneralConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sance\\AppData\\Roaming\\NuGet\\NuGet.Config"
