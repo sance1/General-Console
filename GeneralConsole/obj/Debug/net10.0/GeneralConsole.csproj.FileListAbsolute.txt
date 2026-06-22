@@ -12,3 +12,4 @@ D:\C#\General Console\GeneralConsole\obj\Debug\net10.0\refint\GeneralConsole.dll
 D:\C#\General Console\GeneralConsole\obj\Debug\net10.0\GeneralConsole.pdb
 D:\C#\General Console\GeneralConsole\obj\Debug\net10.0\GeneralConsole.genruntimeconfig.cache
 D:\C#\General Console\GeneralConsole\obj\Debug\net10.0\ref\GeneralConsole.dll
+D:\C#\General Console\GeneralConsole\obj\Debug\net10.0\GeneralConsole.sourcelink.json
